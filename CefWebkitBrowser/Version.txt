@@ -1,0 +1,6 @@
+﻿2017-11-02	将cef替换成最后一个支持xp的支持mp3/mp4的libcef 3.2623.1401版本(RedRain编译);
+		整理混乱的工程配置;
+		BUG 修改: 多字节编码时, webpage title中文显示成乱码.
+		BUG 修改: 默认html打不开. file:///htmlexample/index.html 应当指定绝对路径。
+
+
